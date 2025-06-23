@@ -2,6 +2,8 @@
 
 Este projeto foi desenvolvido como parte da formação **Trilha do Power BI**, oferecida pela **Data Value**. A proposta final consistiu na criação de um dashboard analítico utilizando dados de uma rede de hotéis, com foco em insights visuais, organização de dados e boas práticas em BI.
 
+![image](https://github.com/user-attachments/assets/6dcdbe2c-3c3c-4c12-a138-f6fa1869b09b)
+
 ---
 
 ## 🧭 Objetivo
@@ -69,7 +71,7 @@ Construir um painel interativo e visualmente claro para análise de desempenho h
 
 ## 🖼️ Capturas de Tela
 
-*Adicione aqui imagens do dashboard final para exibição rápida no GitHub.*
+![image](https://github.com/user-attachments/assets/919fb896-2c55-4784-ac13-97cfa5dc256a)
 
 ---
 
@@ -82,9 +84,18 @@ Construir um painel interativo e visualmente claro para análise de desempenho h
 
 ---
 
+## Licença
+
+Este projeto está licenciado sob a licença MIT.
+
+---
+
 ## 📩 Contato
 
 Desenvolvido por Rodrigo Bertini
 
 
-[GitHub](https://www.github.com/rodrigobertinii)  | [Behance](https://www.behance.net/rodrigogomesb1) | [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+[GitHub](https://www.github.com/rodrigobertinii)  | [Behance](https://www.behance.net/rodrigogomesb1) | [LinkedIn](https://www.linkedin.com/in/rodrigogomesbertini/)
+
+![image](https://github.com/user-attachments/assets/d272086d-49de-4b7a-87d4-19e1ef2696d4)
+
