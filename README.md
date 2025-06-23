@@ -80,6 +80,7 @@ Construir um painel interativo e visualmente claro para análise de desempenho h
 - `Trilha de Power BI by Rodrigo Bertini.pbix`: arquivo original do Power BI com o dashboard finalizado.
 - `Base de Dados - Power BI.xlsx`: arquivo Excel referente a fonte de dados
 - `Planos de Fundos`: Fundos desenvolvidos no Figma e exportado para o Power BI
+- `Visualização dos dados`: JPG que consta os dashboards no formato de imagem.
 
 
 ---
